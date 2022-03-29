@@ -1,0 +1,16 @@
+[StartTime]
+Bellcrank Rear L bracket-Static.MFC=2s
+[SolverState]
+Bellcrank Rear L bracket-Static.MFC=2
+[MainFrame]
+Bellcrank Rear L bracket-Static.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPHPBAAAAAHBBAAAAAPFDAAAAAKOBAAAAA
+[ShowMin]
+Bellcrank Rear L bracket-Static.MFC=No
+[SolverType]
+Bellcrank Rear L bracket-Static.MFC=Linear Analysis
+[StudyType]
+Bellcrank Rear L bracket-Static.MFC=0
+[StudyName]
+Bellcrank Rear L bracket-Static.MFC=Static
+[Solver]
+Bellcrank Rear L bracket-Static.MFC=Iterative
